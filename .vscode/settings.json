@@ -1,0 +1,14 @@
+{
+  "git.autoRepositoryDetection": true,
+  "editor.dropIntoEditor.enabled": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.hover.enabled": true,
+  "editor.lightbulb.enabled": true,
+  "editor.pasteAs.enabled": true,
+  "editor.rename.enablePreview": true,
+  "workbench.editor.enablePreview": true,
+  "git.autorefresh": true,
+  "git.confirmNoVerifyCommit": true,
+  "git.decorations.enabled": false,
+  "git.enabled": true
+}
