@@ -1,7 +1,7 @@
 <b>Stack:</b>
 
 <ul>
-<li>ReactJS + хуки</li>
+<li>ReactJS + Hooks</li>
 <li>React Router</li>
 <li>Axios</li>
 <li>SCSS</li>
